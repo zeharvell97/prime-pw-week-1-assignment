@@ -15,8 +15,8 @@ mkdir
 # 7 - Run 'git --version' in your terminal. What is the output?
 2.24.3
 # 8 - Why would you run the command 'git status'?
-to see what all repositiories you have open
+to see what all repositiories you have open, and that need to be committed
 # 9 - What does the command 'git add .' do?
 to see whats ready for your next commit
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push u master
+git push master origin

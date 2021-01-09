@@ -36,3 +36,10 @@ p {
   font-style: italic;
   color: #538601;
 }
+image {
+  border: 10%;
+}
+
+ul {
+  font-style: oblique;
+}
